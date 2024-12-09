@@ -1,0 +1,9 @@
+black
+fastapi
+isort
+langchain
+langgraph
+llama_index
+openai
+pytest
+uvicorn
